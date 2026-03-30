@@ -1,4 +1,4 @@
-//q: find the largest element from AN2ssswccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc array
+//q: find the largest element from  array
 //so, the solution is brute force, better, optimal
 #include<bits/stdc++.h>
 using namespace std;
