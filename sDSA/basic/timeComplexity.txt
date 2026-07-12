@@ -1,0 +1,15 @@
+Time Complexity
+Always in terms of BIG-OH notation
+
+Rules
+1.Always TC, for worst case scenario.
+2.Avoid constants
+3.Avoid lower values(becouse smaller value doesn't affect that much)
+
+
+Big-Oh[Upper-Bond]
+Theta[avg]
+Big-Oh[Lower-Bond]
+
+
+

@@ -1,0 +1,6 @@
+Space Complexity= Auxiallary Space + Input Space.
+
+Auxiallary Space=Space you take to solve a problem.
+Input Space=The Space you need to store the input.
+
+Most of the server of coding platform => 1s=10^8 operation(TL)

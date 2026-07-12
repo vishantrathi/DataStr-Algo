@@ -1,0 +1,5 @@
+*.exe
+*.out
+*.o
+.vscode/
+build/
